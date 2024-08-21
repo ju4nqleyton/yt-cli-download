@@ -1,5 +1,8 @@
 {
   "name": "yt-cli-download",
+  "bin": {
+    "yt-cli": "./index.js"
+  },
   "version": "1.0.0",
   "description": "a cli to download videos on youtube",
   "main": "index.js",
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ju4nqleyton/yt-cli-download/issues"
   },
-  "homepage": "https://github.com/ju4nqleyton/yt-cli-download#readme"
+  "homepage": "https://github.com/ju4nqleyton/yt-cli-download#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
