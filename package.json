@@ -1,0 +1,24 @@
+{
+  "name": "yt-cli-download",
+  "version": "1.0.0",
+  "description": "a cli to download videos on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ju4nqleyton/yt-cli-download.git"
+  },
+  "keywords": [
+    "download",
+    "videos",
+    "youtube"
+  ],
+  "author": "Juan Quintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ju4nqleyton/yt-cli-download/issues"
+  },
+  "homepage": "https://github.com/ju4nqleyton/yt-cli-download#readme"
+}
