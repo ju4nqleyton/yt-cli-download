@@ -3,6 +3,7 @@
   "bin": {
     "yt-cli": "./index.js"
   },
+  "type": "module",
   "version": "1.0.0",
   "description": "a cli to download videos on youtube",
   "main": "index.js",
